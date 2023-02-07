@@ -1,3 +1,3 @@
 ## Contributors
 
-- <Pedro tres>
+- Pedro tres
